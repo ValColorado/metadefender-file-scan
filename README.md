@@ -26,5 +26,7 @@ A couple things to note:
      Main.py will upload a file but may not show the scan results on the first run. 
      If this happens run the program again with the same file upload and the results will be displayed. 
      This program will only scan files that are in the SAME directory. 
+     When running the program it is important that all the files are together. 
+
 
      
