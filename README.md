@@ -8,7 +8,7 @@ Download and extract the zip folder.
 
 Make sure request module is installed on your computer. 
 To install: 
-    ```pip install request```
+    ```pip install requests```
                 or
     ```python -m pip install requests```
 
